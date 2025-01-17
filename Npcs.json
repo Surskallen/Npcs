@@ -1,0 +1,1945 @@
+{
+    "seller": "Abdullah",
+    "items": [
+        {
+            "name": "Amulet of the sky",
+            "price": 100000
+        },
+        {
+            "name": "Ancient royal armor",
+            "price": 150000
+        },
+        {
+            "name": "Ancient scarab coin",
+            "price": 300
+        },
+        {
+            "name": "Beholder boots",
+            "price": 80000
+        },
+        {
+            "name": "Behemoth helmet",
+            "price": 70000
+        },
+        {
+            "name": "Big oil lamp",
+            "price": 500
+        },
+        {
+            "name": "Black knight legs",
+            "price": 50000
+        },
+        {
+            "name": "Cobra staff",
+            "price": 80000
+        },
+        {
+            "name": "Crystal necklace",
+            "price": 500
+        },
+        {
+            "name": "Demon boots",
+            "price": 200000
+        },
+        {
+            "name": "Demon legs",
+            "price": 300000
+        },
+        {
+            "name": "Dragon scale boots",
+            "price": 60000
+        },
+        {
+            "name": "Divine greaves",
+            "price": 200000
+        },
+        {
+            "name": "Dragon eye pendant",
+            "price": 100000
+        },
+        {
+            "name": "Everlasting armor",
+            "price": 80000
+        },
+        {
+            "name": "Everlasting helmet",
+            "price": 80000
+        },
+        {
+            "name": "Everlastnig legs",
+            "price": 80000
+        },
+        {
+            "name": "Frozen dragon scale boots",
+            "price": 70000
+        },
+        {
+            "name": "Frozen greaves",
+            "price": 80000
+        },
+        {
+            "name": "Golden dagger",
+            "price": 50000
+        },
+        {
+            "name": "Golden mug",
+            "price": 500
+        },
+        {
+            "name": "Gold nugget",
+            "price": 2000
+        },
+        {
+            "name": "Golden sickle",
+            "price": 3000
+        },
+        {
+            "name": "Great shield",
+            "price": 300000
+        },
+        {
+            "name": "Holy bow",
+            "price": 150000
+        },
+        {
+            "name": "Infernal greaves",
+            "price": 200000
+        },
+        {
+            "name": "Magical circlet",
+            "price": 80000
+        },
+        {
+            "name": "Medallion of the Paladin order",
+            "price": 100000
+        },
+        {
+            "name": "Nightmare book",
+            "price": 50000
+        },
+        {
+            "name": "Platin greaves",
+            "price": 200000
+        },
+        {
+            "name": "Purple tome",
+            "price": 5000
+        },
+        {
+            "name": "Quiver of darkness",
+            "price": 90000
+        },
+        {
+            "name": "Red tome",
+            "price": 5000
+        },
+        {
+            "name": "Ring of the banshee",
+            "price": 50000
+        },
+        {
+            "name": "Ring of vitality",
+            "price": 150000
+        },
+        {
+            "name": "Robe of despair",
+            "price": 90000
+        },
+        {
+            "name": "Spellbook of the librarian",
+            "price": 80000
+        },
+        {
+            "name": "The wand of might",
+            "price": 400000
+        },
+        {
+            "name": "Thunder hammer",
+            "price": 300000
+        },
+        {
+            "name": "Winged boots",
+            "price": 50000
+        }
+    ],
+    "green_djinn": {
+        "seller": "Green djinn",
+        "items": [
+            {
+                "name": "Centaur quiver",
+                "price": 3000
+            },
+            {
+                "name": "Elven legs",
+                "price": 5000
+            },
+            {
+                "name": "Elven robe",
+                "price": 15000
+            },
+            {
+                "name": "Elvish bow",
+                "price": 5000
+            },
+            {
+                "name": "Gargoyle helmet",
+                "price": 5000
+            },
+            {
+                "name": "Green robe",
+                "price": 10000
+            },
+            {
+                "name": "Holy amulet",
+                "price": 25000
+            },
+            {
+                "name": "Holy ring",
+                "price": 16000
+            },
+            {
+                "name": "Horseman helmet",
+                "price": 500
+            },
+            {
+                "name": "Hydra slayer",
+                "price": 10000
+            },
+            {
+                "name": "Noble quiver",
+                "price": 10000
+            },
+            {
+                "name": "Rock boots",
+                "price": 8000
+            },
+            {
+                "name": "Small quiver",
+                "price": 1000
+            },
+            {
+                "name": "Vampire ring",
+                "price": 15000
+            },
+            {
+                "name": "Ancient Shield",
+                "price": 900
+            },
+            {
+                "name": "Black Shield",
+                "price": 800
+            },
+            {
+                "name": "Bonebreaker",
+                "price": 10000
+            },
+            {
+                "name": "Dark Armor",
+                "price": 400
+            },
+            {
+                "name": "Dark Helmet",
+                "price": 250
+            },
+            {
+                "name": "Dragon Hammer",
+                "price": 2000
+            },
+            {
+                "name": "Dreaded Cleaver",
+                "price": 15000
+            },
+            {
+                "name": "Earth Knight Axe",
+                "price": 2000
+            },
+            {
+                "name": "Energy Knight Axe",
+                "price": 2000
+            },
+            {
+                "name": "Fiery Knight Axe",
+                "price": 2000
+            },
+            {
+                "name": "Giant Sword",
+                "price": 17000
+            },
+            {
+                "name": "Haunted Blade",
+                "price": 8000
+            },
+            {
+                "name": "Icy Knight Axe",
+                "price": 2000
+            },
+            {
+                "name": "Knight Armor",
+                "price": 5000
+            },
+            {
+                "name": "Knight Axe",
+                "price": 2000
+            },
+            {
+                "name": "Knight Legs",
+                "price": 5000
+            },
+            {
+                "name": "Mystic Turban",
+                "price": 150
+            },
+            {
+                "name": "Onyx Flail",
+                "price": 22000
+            },
+            {
+                "name": "Ornamented Axe",
+                "price": 20000
+            },
+            {
+                "name": "Poison Dagger",
+                "price": 50
+            },
+            {
+                "name": "Scimitar",
+                "price": 150
+            },
+            {
+                "name": "Serpent Sword",
+                "price": 900
+            },
+            {
+                "name": "Skull Staff",
+                "price": 6000
+            },
+            {
+                "name": "Strange Helmet",
+                "price": 500
+            },
+            {
+                "name": "Titan Axe",
+                "price": 4000
+            },
+            {
+                "name": "Tower Shield",
+                "price": 8000
+            },
+            {
+                "name": "Vampire Shield",
+                "price": 15000
+            },
+            {
+                "name": "Warrior Helmet",
+                "price": 5000
+            }
+        ]
+    },
+    "blue_bjinn": {
+        "seller": "Blue bjinn",
+        "items": [
+            {
+                "name": "Assassin dagger",
+                "price": 8000
+            },
+            {
+                "name": "Bear helmet",
+                "price": 5000
+            },
+            {
+                "name": "Beholder shield",
+                "price": 3400
+            },
+            {
+                "name": "Blue legs",
+                "price": 10000
+            },
+            {
+                "name": "Bronze shield",
+                "price": 25000
+            },
+            {
+                "name": "Crown boots",
+                "price": 20000
+            },
+            {
+                "name": "Crown sword",
+                "price": 50000
+            },
+            {
+                "name": "Draconian blade",
+                "price": 15000
+            },
+            {
+                "name": "Draconian helmet",
+                "price": 30000
+            },
+            {
+                "name": "Fire club",
+                "price": 7000
+            },
+            {
+                "name": "Firewalker boots",
+                "price": 20000
+            },
+            {
+                "name": "Ice hammer",
+                "price": 1000
+            },
+            {
+                "name": "Knight dagger",
+                "price": 6000
+            },
+            {
+                "name": "Ordinary dagger",
+                "price": 2500
+            },
+            {
+                "name": "Phoenix shield",
+                "price": 70000
+            },
+            {
+                "name": "Royal sword",
+                "price": 10000
+            },
+            {
+                "name": "Watcher lantern",
+                "price": 17000
+            },
+            {
+                "name": "Angelic Axe",
+                "price": 5000
+            },
+            {
+                "name": "Blue Robe",
+                "price": 10000
+            },
+            {
+                "name": "Bonelord Shield",
+                "price": 1200
+            },
+            {
+                "name": "Boots of Haste",
+                "price": 30000
+            },
+            {
+                "name": "Broadsword",
+                "price": 500
+            },
+            {
+                "name": "Butcher's Axe",
+                "price": 18000
+            },
+            {
+                "name": "Crown Armor",
+                "price": 12000
+            },
+            {
+                "name": "Crown Helmet",
+                "price": 2500
+            },
+            {
+                "name": "Crown Legs",
+                "price": 12000
+            },
+            {
+                "name": "Crown Shield",
+                "price": 8000
+            },
+            {
+                "name": "Crusader Helmet",
+                "price": 6000
+            },
+            {
+                "name": "Dragon Lance",
+                "price": 9000
+            },
+            {
+                "name": "Dragon Shield",
+                "price": 4000
+            },
+            {
+                "name": "Earth Spike Sword",
+                "price": 1000
+            },
+            {
+                "name": "Earth War Hammer",
+                "price": 1200
+            },
+            {
+                "name": "Energy Spike Sword",
+                "price": 1000
+            },
+            {
+                "name": "Energy War Hammer",
+                "price": 1200
+            },
+            {
+                "name": "Fiery Spike Sword",
+                "price": 1000
+            },
+            {
+                "name": "Fiery War Hammer",
+                "price": 1200
+            },
+            {
+                "name": "Fire Axe",
+                "price": 8000
+            },
+            {
+                "name": "Fire Sword",
+                "price": 4000
+            },
+            {
+                "name": "Glorious Axe",
+                "price": 3000
+            },
+            {
+                "name": "Guardian Shield",
+                "price": 2000
+            },
+            {
+                "name": "Ice Rapier",
+                "price": 1000
+            },
+            {
+                "name": "Icy Spike Sword",
+                "price": 1000
+            },
+            {
+                "name": "Icy War Hammer",
+                "price": 1200
+            },
+            {
+                "name": "Noble Armor",
+                "price": 900
+            },
+            {
+                "name": "Obsidian Lance",
+                "price": 500
+            },
+            {
+                "name": "Phoenix Shield",
+                "price": 16000
+            },
+            {
+                "name": "Queen's Sceptre",
+                "price": 20000
+            },
+            {
+                "name": "Royal Helmet",
+                "price": 30000
+            },
+            {
+                "name": "Shadow Sceptre",
+                "price": 10000
+            },
+            {
+                "name": "Spike Sword",
+                "price": 1000
+            },
+            {
+                "name": "Thaian Sword",
+                "price": 16000
+            },
+            {
+                "name": "War Hammer",
+                "price": 1200
+            }
+        ]
+    },
+    "rashid": {
+        "seller": "Rashid",
+        "items": [
+            {
+                "name": "Adventurer Sword",
+                "price": 750
+            },
+            {
+                "name": "Ancient Legs",
+                "price": 150000
+            },
+            {
+                "name": "Arcana staff",
+                "price": 10000
+            },
+            {
+                "name": "Bag of beans",
+                "price": 500
+            },
+            {
+                "name": "Beholder amulet",
+                "price": 12000
+            },
+            {
+                "name": "Beholder helmet",
+                "price": 40000
+            },
+            {
+                "name": "Blue gem",
+                "price": 5000
+            },
+            {
+                "name": "Bunny ears",
+                "price": 3000
+            },
+            {
+                "name": "Burning giant sword",
+                "price": 25000
+            },
+            {
+                "name": "Burning shield",
+                "price": 50000
+            },
+            {
+                "name": "Castle shield",
+                "price": 10000
+            },
+            {
+                "name": "Cursed bow",
+                "price": 50000
+            },
+            {
+                "name": "Centaur axe",
+                "price": 2500
+            },
+            {
+                "name": "Centipede armor",
+                "price": 6000
+            },
+            {
+                "name": "Centipede boots",
+                "price": 3000
+            },
+            {
+                "name": "Cloverleaf shield",
+                "price": 40000
+            },
+            {
+                "name": "Composite bow",
+                "price": 8000
+            },
+            {
+                "name": "Cursed spellbook",
+                "price": 6000
+            },
+            {
+                "name": "Daramanian waraxe",
+                "price": 1000
+            },
+            {
+                "name": "Djinn robe",
+                "price": 30000
+            },
+            {
+                "name": "Demon bone",
+                "price": 80000
+            },
+            {
+                "name": "Demonbone amulet",
+                "price": 30000
+            },
+            {
+                "name": "Demonic staff",
+                "price": 50000
+            },
+            {
+                "name": "Devil's shot",
+                "price": 100000
+            },
+            {
+                "name": "Divine boots",
+                "price": 30000
+            },
+            {
+                "name": "Divine chestplate",
+                "price": 60000
+            },
+            {
+                "name": "Divine hood",
+                "price": 40000
+            },
+            {
+                "name": "Dragonbone staff",
+                "price": 50000
+            },
+            {
+                "name": "Dwarven armor",
+                "price": 30000
+            },
+            {
+                "name": "Flaming bow",
+                "price": 30000
+            },
+            {
+                "name": "Fearbringer",
+                "price": 60000
+            },
+            {
+                "name": "Feather amulet",
+                "price": 2000
+            },
+            {
+                "name": "Foxtail trousers",
+                "price": 6000
+            },
+            {
+                "name": "Fur armor",
+                "price": 1000
+            },
+            {
+                "name": "Frozen blade",
+                "price": 25000
+            },
+            {
+                "name": "Frozen bow",
+                "price": 40000
+            },
+            {
+                "name": "Frozen dragon scale mail",
+                "price": 45000
+            },
+            {
+                "name": "Frozen plate",
+                "price": 50000
+            },
+            {
+                "name": "Giant shield",
+                "price": 9000
+            },
+            {
+                "name": "Golden cherry",
+                "price": 250
+            },
+            {
+                "name": "Golden legs",
+                "price": 50000
+            },
+            {
+                "name": "Gold ring",
+                "price": 10000
+            },
+            {
+                "name": "Green gem",
+                "price": 15000
+            },
+            {
+                "name": "Hunter's vest",
+                "price": 2500
+            },
+            {
+                "name": "Heavy mace",
+                "price": 50000
+            },
+            {
+                "name": "Heroic axe",
+                "price": 25000
+            },
+            {
+                "name": "Heroic sword",
+                "price": 25000
+            },
+            {
+                "name": "Heroic hammer",
+                "price": 25000
+            },
+            {
+                "name": "Hammer of wrath",
+                "price": 30000
+            },
+            {
+                "name": "Harpy blade",
+                "price": 5500
+            },
+            {
+                "name": "Hunter shield",
+                "price": 1000
+            },
+            {
+                "name": "Ice halberd",
+                "price": 1000
+            },
+            {
+                "name": "Infernal helmet",
+                "price": 40000
+            },
+            {
+                "name": "Infested crossbow",
+                "price": 30000
+            },
+            {
+                "name": "Paladin crossbow",
+                "price": 30000
+            },
+            {
+                "name": "Leaf crossbow",
+                "price": 40000
+            },
+            {
+                "name": "Lunar staff",
+                "price": 7000
+            },
+            {
+                "name": "Leopard armor",
+                "price": 1000
+            },
+            {
+                "name": "Lightning robe",
+                "price": 50000
+            },
+            {
+                "name": "Lion shield",
+                "price": 1000
+            },
+            {
+                "name": "Magic bow",
+                "price": 50000
+            },
+            {
+                "name": "Magic crossbow",
+                "price": 50000
+            },
+            {
+                "name": "Magician hat",
+                "price": 6000
+            },
+            {
+                "name": "Magic plate armor",
+                "price": 150000
+            },
+            {
+                "name": "Magic plate legs",
+                "price": 150000
+            },
+            {
+                "name": "Magic wand",
+                "price": 350
+            },
+            {
+                "name": "Mind stone",
+                "price": 250
+            },
+            {
+                "name": "Minotaur armor",
+                "price": 1000
+            },
+            {
+                "name": "Minotaur legs",
+                "price": 1000
+            },
+            {
+                "name": "Minotaur helmet",
+                "price": 1000
+            },
+            {
+                "name": "Minotaur axe",
+                "price": 10000
+            },
+            {
+                "name": "Naginata",
+                "price": 5000
+            },
+            {
+                "name": "Nightmare staff",
+                "price": 30000
+            },
+            {
+                "name": "Nightmare whip",
+                "price": 30000
+            },
+            {
+                "name": "Nomad sword",
+                "price": 2500
+            },
+            {
+                "name": "Nomad lance",
+                "price": 4000
+            },
+            {
+                "name": "Nomad robe",
+                "price": 800
+            },
+            {
+                "name": "Ogre club",
+                "price": 11000
+            },
+            {
+                "name": "Orcish armor",
+                "price": 1000
+            },
+            {
+                "name": "Orcish legs",
+                "price": 1000
+            },
+            {
+                "name": "Oriental pants",
+                "price": 18000
+            },
+            {
+                "name": "Platimum amulet",
+                "price": 7500
+            },
+            {
+                "name": "Primitiv club",
+                "price": 15000
+            },
+            {
+                "name": "Paladin armor",
+                "price": 20000
+            },
+            {
+                "name": "Red gem",
+                "price": 2000
+            },
+            {
+                "name": "Red robe",
+                "price": 20000
+            },
+            {
+                "name": "Ranger legs",
+                "price": 1500
+            },
+            {
+                "name": "Reaper axe",
+                "price": 35000
+            },
+            {
+                "name": "Ravenwing",
+                "price": 10000
+            },
+            {
+                "name": "Ruby necklace",
+                "price": 2000
+            },
+            {
+                "name": "Saphire amulet",
+                "price": 15000
+            },
+            {
+                "name": "Scarab bow",
+                "price": 7000
+            },
+            {
+                "name": "Silver dagger",
+                "price": 500
+            },
+            {
+                "name": "Simple dress",
+                "price": 1000
+            },
+            {
+                "name": "Skull armor",
+                "price": 13000
+            },
+            {
+                "name": "Skull blade",
+                "price": 20000
+            },
+            {
+                "name": "Skull legs",
+                "price": 20000
+            },
+            {
+                "name": "Spidersilk armor",
+                "price": 15000
+            },
+            {
+                "name": "Spidersilk legs",
+                "price": 12500
+            },
+            {
+                "name": "Spiky club",
+                "price": 750
+            },
+            {
+                "name": "Staff of darkness",
+                "price": 5000
+            },
+            {
+                "name": "Shadow cape",
+                "price": 13000
+            },
+            {
+                "name": "Shadow walkers",
+                "price": 6000
+            },
+            {
+                "name": "Spellbook of hellfire",
+                "price": 40000
+            },
+            {
+                "name": "Spellbook of mysteries",
+                "price": 50000
+            },
+            {
+                "name": "Spellbook of nature",
+                "price": 4000
+            },
+            {
+                "name": "Spring blade",
+                "price": 30000
+            },
+            {
+                "name": "The dragonkiller",
+                "price": 8000
+            },
+            {
+                "name": "TurtleShield",
+                "price": 500
+            },
+            {
+                "name": "Turtle boots",
+                "price": 2500
+            },
+            {
+                "name": "Valkyrie helmet",
+                "price": 15000
+            },
+            {
+                "name": "Valkyrie legs",
+                "price": 5500
+            },
+            {
+                "name": "Valkyrie armor",
+                "price": 5500
+            },
+            {
+                "name": "Violet gem",
+                "price": 25000
+            },
+            {
+                "name": "War axe",
+                "price": 12000
+            },
+            {
+                "name": "White dress",
+                "price": 30000
+            },
+            {
+                "name": "War horn",
+                "price": 5000
+            },
+            {
+                "name": "Worm chopper",
+                "price": 750
+            },
+            {
+                "name": "Yellow gem",
+                "price": 5000
+            },
+            {
+                "name": "Witch boots",
+                "price": 10000
+            },
+            {
+                "name": "Witch hat",
+                "price": 7000
+            },
+            {
+                "name": "Wedding ring",
+                "price": 350
+            },
+            {
+                "name": "Abyss Hammer",
+                "price": 20000
+            },
+            {
+                "name": "Albino Plate",
+                "price": 1500
+            },
+            {
+                "name": "Amber Staff",
+                "price": 8000
+            },
+            {
+                "name": "Ancient Amulet",
+                "price": 200
+            },
+            {
+                "name": "Assassin Dagger",
+                "price": 20000
+            },
+            {
+                "name": "Bandana",
+                "price": 150
+            },
+            {
+                "name": "Beastslayer Axe",
+                "price": 1500
+            },
+            {
+                "name": "Beetle Necklace",
+                "price": 1500
+            },
+            {
+                "name": "Berserker",
+                "price": 40000
+            },
+            {
+                "name": "Blacksteel Sword",
+                "price": 6000
+            },
+            {
+                "name": "Blessed Sceptre",
+                "price": 40000
+            },
+            {
+                "name": "Bone Shield",
+                "price": 80
+            },
+            {
+                "name": "Bonelord Helmet",
+                "price": 7500
+            },
+            {
+                "name": "Brutetamer's Staff",
+                "price": 1500
+            },
+            {
+                "name": "Buckle",
+                "price": 7000
+            },
+            {
+                "name": "Castle Shield",
+                "price": 5000
+            },
+            {
+                "name": "Chain Bolter",
+                "price": 40000
+            },
+            {
+                "name": "Chaos Mace",
+                "price": 9000
+            },
+            {
+                "name": "Cobra Crown",
+                "price": 50000
+            },
+            {
+                "name": "Coconut Shoes",
+                "price": 500
+            },
+            {
+                "name": "Composite Hornbow",
+                "price": 25000
+            },
+            {
+                "name": "Cranial Basher",
+                "price": 30000
+            },
+            {
+                "name": "Crocodile Boots",
+                "price": 1000
+            },
+            {
+                "name": "Crystal Crossbow",
+                "price": 35000
+            },
+            {
+                "name": "Crystal Mace",
+                "price": 12000
+            },
+            {
+                "name": "Crystal Necklace",
+                "price": 400
+            },
+            {
+                "name": "Crystal Ring",
+                "price": 250
+            },
+            {
+                "name": "Crystal Sword",
+                "price": 600
+            },
+            {
+                "name": "Crystalline Armor",
+                "price": 16000
+            },
+            {
+                "name": "Daramian Mace",
+                "price": 110
+            },
+            {
+                "name": "Daramian Waraxe",
+                "price": 1000
+            },
+            {
+                "name": "Dark Shield",
+                "price": 400
+            },
+            {
+                "name": "Death Ring",
+                "price": 1000
+            },
+            {
+                "name": "Demon Shield",
+                "price": 30000
+            },
+            {
+                "name": "Demonbone Amulet",
+                "price": 32000
+            },
+            {
+                "name": "Demonrage Sword",
+                "price": 36000
+            },
+            {
+                "name": "Devil Helmet",
+                "price": 1000
+            },
+            {
+                "name": "Diamond Sceptre",
+                "price": 3000
+            },
+            {
+                "name": "Divine Plate",
+                "price": 55000
+            },
+            {
+                "name": "Djinn Blade",
+                "price": 15000
+            },
+            {
+                "name": "Doll",
+                "price": 200
+            },
+            {
+                "name": "Dragon Scale Mail",
+                "price": 40000
+            },
+            {
+                "name": "Dragon Slayer",
+                "price": 15000
+            },
+            {
+                "name": "Dragonbone Staff",
+                "price": 3000
+            },
+            {
+                "name": "Dreaded Cleaver",
+                "price": 10000
+            },
+            {
+                "name": "Dwarven Armor",
+                "price": 30000
+            },
+            {
+                "name": "Elvish Bow",
+                "price": 2000
+            },
+            {
+                "name": "Emerald Bangle",
+                "price": 800
+            },
+            {
+                "name": "Epee",
+                "price": 8000
+            },
+            {
+                "name": "Flower Dress",
+                "price": 1000
+            },
+            {
+                "name": "Flower Wreath",
+                "price": 500
+            },
+            {
+                "name": "Fur Boots",
+                "price": 2000
+            },
+            {
+                "name": "Furry Club",
+                "price": 1000
+            },
+            {
+                "name": "Glacier Amulet",
+                "price": 1500
+            },
+            {
+                "name": "Glacier Kilt",
+                "price": 11000
+            },
+            {
+                "name": "Glacier Mask",
+                "price": 2500
+            },
+            {
+                "name": "Glacier Robe",
+                "price": 11000
+            },
+            {
+                "name": "Glacier Shoes",
+                "price": 2500
+            },
+            {
+                "name": "Gold Ring",
+                "price": 8000
+            },
+            {
+                "name": "Golden Armor",
+                "price": 20000
+            },
+            {
+                "name": "Golden Legs",
+                "price": 30000
+            },
+            {
+                "name": "Goo Shell",
+                "price": 4000
+            },
+            {
+                "name": "Griffin Shield",
+                "price": 3000
+            },
+            {
+                "name": "Guardian Halberd",
+                "price": 11000
+            },
+            {
+                "name": "Hammer of Wrath",
+                "price": 30000
+            },
+            {
+                "name": "Headchopper",
+                "price": 6000
+            },
+            {
+                "name": "Heavy Mace",
+                "price": 50000
+            },
+            {
+                "name": "Heavy Machete",
+                "price": 90
+            },
+            {
+                "name": "Heavy Trident",
+                "price": 2000
+            },
+            {
+                "name": "Helmet of the Lost",
+                "price": 2000
+            },
+            {
+                "name": "Heroic Axe",
+                "price": 30000
+            },
+            {
+                "name": "Hibiscus Dress",
+                "price": 3000
+            },
+            {
+                "name": "Hieroglyph Banner",
+                "price": 500
+            },
+            {
+                "name": "Horn (Ring)",
+                "price": 300
+            },
+            {
+                "name": "Jade Hammer",
+                "price": 25000
+            },
+            {
+                "name": "Krimhorn Helmet",
+                "price": 200
+            },
+            {
+                "name": "Lavos Armor",
+                "price": 16000
+            },
+            {
+                "name": "Leaf Legs",
+                "price": 500
+            },
+            {
+                "name": "Leopard Armor",
+                "price": 1000
+            },
+            {
+                "name": "Leviathan's Amulet",
+                "price": 3000
+            },
+            {
+                "name": "Light Shovel",
+                "price": 300
+            },
+            {
+                "name": "Lightning Boots",
+                "price": 2500
+            },
+            {
+                "name": "Lightning Headband",
+                "price": 2500
+            },
+            {
+                "name": "Lightning Legs",
+                "price": 11000
+            },
+            {
+                "name": "Lightning Pendant",
+                "price": 1500
+            },
+            {
+                "name": "Lightning Robe",
+                "price": 11000
+            },
+            {
+                "name": "Lunar Staff",
+                "price": 5000
+            },
+            {
+                "name": "Magic Plate Armor",
+                "price": 90000
+            },
+            {
+                "name": "Magma Amulet",
+                "price": 1500
+            },
+            {
+                "name": "Magma Boots",
+                "price": 2500
+            },
+            {
+                "name": "Magma Coat",
+                "price": 11000
+            },
+            {
+                "name": "Magma Legs",
+                "price": 11000
+            },
+            {
+                "name": "Magma Monocle",
+                "price": 2500
+            },
+            {
+                "name": "Mammoth Fur Cape",
+                "price": 6000
+            },
+            {
+                "name": "Mammoth Fur Shorts",
+                "price": 850
+            },
+            {
+                "name": "Mammoth Whopper",
+                "price": 300
+            },
+            {
+                "name": "Mastermind Shield",
+                "price": 50000
+            },
+            {
+                "name": "Medusa Shield",
+                "price": 9000
+            },
+            {
+                "name": "Mercenary Sword",
+                "price": 12000
+            },
+            {
+                "name": "Model Ship",
+                "price": 1000
+            },
+            {
+                "name": "Mycological Bow",
+                "price": 35000
+            },
+            {
+                "name": "Mystic Blade",
+                "price": 30000
+            },
+            {
+                "name": "Nightmare Blade",
+                "price": 35000
+            },
+            {
+                "name": "Noble Axe",
+                "price": 10000
+            },
+            {
+                "name": "Norse Shield",
+                "price": 1500
+            },
+            {
+                "name": "Onyx Pendant",
+                "price": 3500
+            },
+            {
+                "name": "Orcish Maul",
+                "price": 6000
+            },
+            {
+                "name": "Oriental Shoes",
+                "price": 15000
+            },
+            {
+                "name": "Pair of Iron Fists",
+                "price": 4000
+            },
+            {
+                "name": "Paladin Armor",
+                "price": 15000
+            },
+            {
+                "name": "Patched Boots",
+                "price": 2000
+            },
+            {
+                "name": "Pharaoh Banner",
+                "price": 1000
+            },
+            {
+                "name": "Pharaoh Sword",
+                "price": 23000
+            },
+            {
+                "name": "Pirate Boots",
+                "price": 3000
+            },
+            {
+                "name": "Pirate Hat",
+                "price": 1000
+            },
+            {
+                "name": "Pirate Knee Breeches",
+                "price": 200
+            },
+            {
+                "name": "Pirate Shirt",
+                "price": 500
+            },
+            {
+                "name": "Pirate Voodoo Doll",
+                "price": 500
+            },
+            {
+                "name": "Platinum Amulet",
+                "price": 2500
+            },
+            {
+                "name": "Ragnir Helmet",
+                "price": 400
+            },
+            {
+                "name": "Relic Sword",
+                "price": 25000
+            },
+            {
+                "name": "Rift Bow",
+                "price": 45000
+            },
+            {
+                "name": "Rift Crossbow",
+                "price": 45000
+            },
+            {
+                "name": "Rift Lance",
+                "price": 30000
+            },
+            {
+                "name": "Rift Shield",
+                "price": 50000
+            },
+            {
+                "name": "Ring of the Sky",
+                "price": 30000
+            },
+            {
+                "name": "Royal Axe",
+                "price": 40000
+            },
+            {
+                "name": "Ruby Necklace",
+                "price": 2000
+            },
+            {
+                "name": "Ruthless Axe",
+                "price": 45000
+            },
+            {
+                "name": "Sacred Tree Amulet",
+                "price": 3000
+            },
+            {
+                "name": "Sapphire Hammer",
+                "price": 7000
+            },
+            {
+                "name": "Scarab Amulet",
+                "price": 200
+            },
+            {
+                "name": "Scarab Shield",
+                "price": 2000
+            },
+            {
+                "name": "Shockwave Amulet",
+                "price": 3000
+            },
+            {
+                "name": "Silver Brooch",
+                "price": 150
+            },
+            {
+                "name": "Silver Dagger",
+                "price": 500
+            },
+            {
+                "name": "Skull Helmet",
+                "price": 40000
+            },
+            {
+                "name": "Skullcracker Armor",
+                "price": 18000
+            },
+            {
+                "name": "Spiked Squelcher",
+                "price": 5000
+            },
+            {
+                "name": "Steel Boots",
+                "price": 30000
+            },
+            {
+                "name": "Swamplair Armor",
+                "price": 16000
+            },
+            {
+                "name": "Taurus Mace",
+                "price": 500
+            },
+            {
+                "name": "Tempest Shield",
+                "price": 35000
+            },
+            {
+                "name": "Terra Amulet",
+                "price": 1500
+            },
+            {
+                "name": "Terra Boots",
+                "price": 2500
+            },
+            {
+                "name": "Terra Hood",
+                "price": 2500
+            },
+            {
+                "name": "Terra Legs",
+                "price": 11000
+            },
+            {
+                "name": "Terra Mantle",
+                "price": 11000
+            },
+            {
+                "name": "The Justice Seeker",
+                "price": 40000
+            },
+            {
+                "name": "Tortoise Shield",
+                "price": 150
+            },
+            {
+                "name": "Vile Axe",
+                "price": 30000
+            },
+            {
+                "name": "Voodoo Doll",
+                "price": 400
+            },
+            {
+                "name": "War Axe",
+                "price": 12000
+            },
+            {
+                "name": "War Horn",
+                "price": 8000
+            },
+            {
+                "name": "Witch Hat",
+                "price": 5000
+            },
+            {
+                "name": "Wyvern Fang",
+                "price": 1500
+            }
+        ]
+    },
+    "hanna": {
+        "seller": "Hanna",
+        "items": [
+            {
+                "name": "Amber (Item)",
+                "price": 20000
+            },
+            {
+                "name": "Amber with a Bug",
+                "price": 41000
+            },
+            {
+                "name": "Amber with a Dragonfly",
+                "price": 56000
+            },
+            {
+                "name": "Ancient Coin",
+                "price": 350
+            },
+            {
+                "name": "Black Pearl",
+                "price": 280
+            },
+            {
+                "name": "Blue Crystal Shard",
+                "price": 1500
+            },
+            {
+                "name": "Blue Crystal Splinter",
+                "price": 400
+            },
+            {
+                "name": "Brown Crystal Splinter",
+                "price": 400
+            },
+            {
+                "name": "Coral Brooch",
+                "price": 750
+            },
+            {
+                "name": "Crunor Idol",
+                "price": 30000
+            },
+            {
+                "name": "Cyan Crystal Fragment",
+                "price": 800
+            },
+            {
+                "name": "Dragon Figurine",
+                "price": 45000
+            },
+            {
+                "name": "Eldritch Crystal",
+                "price": 48000
+            },
+            {
+                "name": "Fiery Tear",
+                "price": 1070000
+            },
+            {
+                "name": "Gemmed Figurine",
+                "price": 3500
+            },
+            {
+                "name": "Giant Amethyst",
+                "price": 60000
+            },
+            {
+                "name": "Giant Emerald",
+                "price": 90000
+            },
+            {
+                "name": "Giant Ruby",
+                "price": 70000
+            },
+            {
+                "name": "Giant Sapphire",
+                "price": 50000
+            },
+            {
+                "name": "Giant Shimmering Pearl (Brown)",
+                "price": 3000
+            },
+            {
+                "name": "Giant Shimmering Pearl (Green)",
+                "price": 3000
+            },
+            {
+                "name": "Giant Topaz",
+                "price": 80000
+            },
+            {
+                "name": "Gold Ingot",
+                "price": 5000
+            },
+            {
+                "name": "Gold Nugget",
+                "price": 850
+            },
+            {
+                "name": "Greater Fragment",
+                "price": 2500
+            },
+            {
+                "name": "Greater Guardian Gem",
+                "price": 10000
+            },
+            {
+                "name": "Greater Marksman Gem",
+                "price": 10000
+            },
+            {
+                "name": "Greater Mystic Gem",
+                "price": 10000
+            },
+            {
+                "name": "Greater Sage Gem",
+                "price": 10000
+            },
+            {
+                "name": "Green Crystal Fragment",
+                "price": 800
+            },
+            {
+                "name": "Green Crystal Shard",
+                "price": 1500
+            },
+            {
+                "name": "Green Crystal Splinter",
+                "price": 400
+            },
+            {
+                "name": "Guardian Gem",
+                "price": 5000
+            },
+            {
+                "name": "Lesser Fragment",
+                "price": 500
+            },
+            {
+                "name": "Lesser Guardian Gem",
+                "price": 2500
+            },
+            {
+                "name": "Lesser Marksman Gem",
+                "price": 2500
+            },
+            {
+                "name": "Lesser Mystic Gem",
+                "price": 2500
+            },
+            {
+                "name": "Lesser Sage Gem",
+                "price": 2500
+            },
+            {
+                "name": "Lion Figurine",
+                "price": 10000
+            },
+            {
+                "name": "Marksman Gem",
+                "price": 5000
+            },
+            {
+                "name": "Mystic Gem",
+                "price": 5000
+            },
+            {
+                "name": "Onyx Chip",
+                "price": 500
+            },
+            {
+                "name": "Opal",
+                "price": 500
+            },
+            {
+                "name": "Ornate Locket",
+                "price": 18000
+            },
+            {
+                "name": "Prismatic Quartz",
+                "price": 450
+            },
+            {
+                "name": "Rainbow Quartz",
+                "price": 500
+            },
+            {
+                "name": "Red Crystal Fragment",
+                "price": 800
+            },
+            {
+                "name": "Royal Almandine",
+                "price": 460000
+            },
+            {
+                "name": "Sage Gem",
+                "price": 5000
+            },
+            {
+                "name": "Skull Coin",
+                "price": 12000
+            },
+            {
+                "name": "Small Amethyst",
+                "price": 200
+            },
+            {
+                "name": "Small Diamond",
+                "price": 300
+            },
+            {
+                "name": "Small Emerald",
+                "price": 250
+            },
+            {
+                "name": "Small Enchanted Amethyst",
+                "price": 200
+            },
+            {
+                "name": "Small Enchanted Emerald",
+                "price": 250
+            },
+            {
+                "name": "Small Enchanted Ruby",
+                "price": 250
+            },
+            {
+                "name": "Small Enchanted Sapphire",
+                "price": 250
+            },
+            {
+                "name": "Small Ruby",
+                "price": 250
+            },
+            {
+                "name": "Small Sapphire",
+                "price": 250
+            },
+            {
+                "name": "Small Topaz",
+                "price": 200
+            },
+            {
+                "name": "Tiger Eye",
+                "price": 350
+            },
+            {
+                "name": "Unicorn Figurine",
+                "price": 50000
+            },
+            {
+                "name": "Violet Crystal Shard",
+                "price": 1500
+            },
+            {
+                "name": "Watermelon Tourmaline (Pear)",
+                "price": 230000
+            },
+            {
+                "name": "Watermelon Tourmaline (Slice)",
+                "price": 30000
+            },
+            {
+                "name": "Wedding Ring",
+                "price": 100
+            },
+            {
+                "name": "White Pearl",
+                "price": 160
+            },
+            {
+                "name": "White Silk Flower",
+                "price": 9000
+            }
+        ]
+    }
+}
